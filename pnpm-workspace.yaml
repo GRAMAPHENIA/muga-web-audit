@@ -1,0 +1,8 @@
+# pnpm-workspace.yaml
+
+# Declaración de que este proyecto es un monorepo
+# Definición de qué carpetas pueden contener paquetes.
+
+packages:
+ - "apps/*"
+ - "packages/*"
